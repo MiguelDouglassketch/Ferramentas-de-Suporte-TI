@@ -12,8 +12,6 @@ def main():
     mostrar_informacoes_sistema()
     testar_conexao_internet()
 
-    print("\nDiagnóstico finalizado!")
-
 
 if __name__ == "__main__":
     main()
